@@ -1,0 +1,2 @@
+API hangi para birimini istersem isteyeyim EUR para birimini gönderiyor.
+mobil uyumluluk.
